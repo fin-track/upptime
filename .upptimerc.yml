@@ -6,7 +6,7 @@ sites:
   - name: testing-app
     url: https://testing.fin-track.ru/endpoints/health
   - name: testing-backend
-    url: https://en.wikipedia.org
+    url: https://testing.fin-track.ru/api/docs
 
 status-website:
   baseUrl: /upptime
