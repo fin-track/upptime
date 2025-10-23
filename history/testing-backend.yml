@@ -1,7 +1,7 @@
 url: https://testing.fin-track.ru/api/health
-status: up
-code: 200
-responseTime: 184
-lastUpdated: 2025-10-22T23:12:10.555Z
+status: down
+code: 502
+responseTime: 122
+lastUpdated: 2025-10-23T15:34:08.228Z
 startTime: 2024-07-18T22:26:14.458Z
 generator: Upptime <https://github.com/upptime/upptime>
