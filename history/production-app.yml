@@ -1,7 +1,7 @@
 url: https://app.fin-track.ru/endpoints/health
-status: down
-code: 502
-responseTime: 684
-lastUpdated: 2025-11-13T03:44:01.490Z
+status: up
+code: 200
+responseTime: 727
+lastUpdated: 2025-11-13T04:13:01.384Z
 startTime: 2024-07-22T13:10:13.872Z
 generator: Upptime <https://github.com/upptime/upptime>
