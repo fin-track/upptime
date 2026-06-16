@@ -4,12 +4,12 @@
     "url": "https://app.fin-track.ru/endpoints/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.fin-track.ru.ico",
     "slug": "production-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.79%",
     "time": 926,
     "timeDay": 1018,
     "timeWeek": 893,
@@ -20,7 +20,8 @@
       "2025-11-13": 29,
       "2026-02-09": 717,
       "2026-02-08": 260,
-      "2026-03-12": 43
+      "2026-03-12": 43,
+      "2026-06-16": 15
     }
   },
   {
@@ -28,24 +29,25 @@
     "url": "https://app.fin-track.ru/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.fin-track.ru.ico",
     "slug": "production-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.78%",
     "time": 236,
     "timeDay": 757,
     "timeWeek": 667,
     "timeMonth": 663,
-    "timeYear": 258,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2025-06-26": 19,
       "2025-07-04": 59,
       "2025-11-13": 29,
       "2026-02-09": 717,
       "2026-02-08": 259,
-      "2026-03-12": 42
+      "2026-03-12": 42,
+      "2026-06-16": 10
     }
   },
   {
@@ -53,13 +55,13 @@
     "url": "https://testing.fin-track.ru/endpoints/health",
     "icon": "https://icons.duckduckgo.com/ip3/testing.fin-track.ru.ico",
     "slug": "testing-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.64%",
-    "time": 922,
+    "time": 923,
     "timeDay": 1054,
     "timeWeek": 841,
     "timeMonth": 829,
@@ -73,7 +75,8 @@
       "2026-01-19": 37,
       "2026-02-09": 801,
       "2026-02-08": 259,
-      "2026-03-12": 42
+      "2026-03-12": 42,
+      "2026-06-16": 5
     }
   },
   {
@@ -81,13 +84,13 @@
     "url": "https://testing.fin-track.ru/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/testing.fin-track.ru.ico",
     "slug": "testing-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 194,
+    "time": 195,
     "timeDay": 762,
     "timeWeek": 613,
     "timeMonth": 594,
@@ -101,7 +104,8 @@
       "2026-01-30": 35,
       "2026-02-09": 717,
       "2026-02-08": 258,
-      "2026-03-12": 41
+      "2026-03-12": 41,
+      "2026-06-16": 0
     }
   }
 ]
